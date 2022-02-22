@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kinto/code/adrienmocek/TaxiFareModel/mlruns/1/7a688bef4d284bfa82200875332fdbf3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 7a688bef4d284bfa82200875332fdbf3
+run_uuid: 7a688bef4d284bfa82200875332fdbf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645529844377
+status: 1
+tags: []
+user_id: unknown
